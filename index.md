@@ -6,4 +6,4 @@ Tomer's Portfolio
 - JavaScript
 - HTML/CSS
 - Git+Github
-- Much more
+- Much much more
