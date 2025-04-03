@@ -1,9 +1,10 @@
 ---
-Tomer's Portfolio
+title: Tomer's Portfolio
+layout: default
 ---
 
-## What can i do?
+## What can I do?
 - JavaScript
 - HTML/CSS
-- Git+Github
+- Git + GitHub
 - Much much more
